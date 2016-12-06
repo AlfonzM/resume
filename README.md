@@ -3,10 +3,10 @@
 
 ## Bio
 
-- e-mail: m.alfonz@gmail.com
-- phone: 
-- blog: alphonsus.github.io
-- github: github.com/alfonzm
+- E-mail: [m.alfonz@gmail.com](mailto:m.alfonz@gmail.com)
+- Phone: 
+- Blog: [alphonsus.github.io](http://alphonsus.github.io)
+- GitHub: [github.com/alfonzm](http://github.com/alfonzm)
 
 ## Employment
 
@@ -51,24 +51,26 @@
 
 - **Web**
   - PHP
-  - HTML5 / CSS3
-  - Javascript / jQuery
-  - Symfony
+  - Laravel, Symfony
   - MySQL
-  - Bootstrap
-  - LESS/SASS
+  - HTML5 / CSS3
+  - Javascript
+  - Node.js
+  - ReactJS
+  - SASS / LESS
 
 - **Code**
-  - Unity / C#
-  - iOS / Swift
-  - Android / Java
   - Python
-  - Git & GitHub
-  - UNIX / Shell
+  - Unity Engine (C#)
+  - iOS (Swift)
+  - Love2D (Lua)
+  - Git
+  - UNIX computing
 
 - **Design**
-  - Web Design
-  - UI / UX Design
-  - Photoshop
-  - Game Design
-  - Level Design
+  - Python
+  - Unity Engine (C#)
+  - iOS (Swift)
+  - Love2D (Lua)
+  - Git
+  - UNIX computing
