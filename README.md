@@ -49,28 +49,33 @@
 
 ## Skills
 
-- **Web**
-  - PHP
-  - Laravel, Symfony
-  - MySQL
-  - HTML5 / CSS3
-  - Javascript
-  - Node.js
-  - ReactJS
-  - SASS / LESS
+- **Full Stack Web Development**
+  - Back-end
+    - LAMP stack (Linux, Apache, MySQL, PHP)
+      - Laravel
+      - Symfony
+      - Slim
+      - Eloquent ORM
+    - Node stack
+      - Express
+      - Mongoose (MongoDB)
+  - Front-end
+    - HTML5 / CSS3 / Javascript
+    - React.js
+    - Vue.js1
+    - Gulp
+    - Webpack
+    - SASS, LESS
 
 - **Code**
   - Python
   - Unity Engine (C#)
   - iOS (Swift)
-  - Love2D (Lua)
+  - LÖVE (Lua)
   - Git
   - UNIX computing
 
 - **Design**
-  - Python
-  - Unity Engine (C#)
-  - iOS (Swift)
-  - Love2D (Lua)
-  - Git
-  - UNIX computing
+  - UI/UX Design
+  - Graphic Design
+  - Photoshop
