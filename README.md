@@ -62,8 +62,8 @@
   - Front-end
     - HTML5 / CSS3 / Javascript
     - React.js
-    - Vue.js1
-    - Gulp
+    - Vue.js
+    - Gulp
     - Webpack
     - SASS, LESS
 
