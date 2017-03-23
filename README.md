@@ -52,26 +52,34 @@
 - **Full Stack Web Development**
   - Back-end
     - LAMP stack (Linux, Apache, MySQL, PHP)
-      - Laravel
-      - Symfony
-      - Slim
-      - Eloquent ORM
     - Node stack
       - Express
       - Mongoose (MongoDB)
+    - PHP Frameworks
+      - Laravel, Eloquent ORM
+      - Slim
+    - RESTful API
+    - 3rd Party API integrations
   - Front-end
-    - HTML5 / CSS3 / Javascript
-    - React.js
-    - Vue.js
+    - HTML5, CSS3, ES6 Javascript
+    - JS frameworks
+      - React.js
+      - Vue.js
     - Gulp
     - Webpack
+    - CSS Frameworks
+      - Bootstrap
+      - Semantic UI
     - SASS, LESS
 
-- **Code**
-  - Python
+- **Game Development**
   - Unity Engine (C#)
-  - iOS (Swift)
   - LÖVE (Lua)
+  - HaxeFlixel (Haxe)
+  
+- **Other**
+  - iOS development, Swift
+  - Python
   - Git
   - UNIX computing
 
