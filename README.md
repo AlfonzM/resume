@@ -11,9 +11,9 @@
 ## Employment
 
 - **Robot Applications and Full-Stack Web Developer, G-Angle Entertainment Cebu** (May 2015—Present)
-  - Designed and developed applications and content management systems for Pepper, a humanoid robot, using Python, web technologies and several different APIs.
+  - Designed and developed applications and content management systems for Pepper, a humanoid robot, using Python, web technologies and several 3rd-party APIs.
   - Developed and maintained in-house web systems and web applications.
-  - System administration for a few Linux and EC2 servers.
+  - System administration for Linux and EC2 servers.
 
 - **Web Developer / iOS Developer, Chromedia Far East Inc.** (Apr 2015—May 2015)
   - Web and iOS development for startup companies in an agile working environment.
@@ -40,19 +40,21 @@
     - PHP Frameworks
       - Laravel, Eloquent ORM
       - Slim
-    - Node stack
-      - Node.js
-      - Express
-      - Mongoose (MongoDB)
+    - Node stack (Node.js, Express, MongoDB)
     - Amazon Web Services EC2 and S3
     - RESTful API
     - 3rd Party API integrations
   - Front-end
     - HTML5, CSS3, Javascript (ES6), jQuery
     - React.js, Vue.js
-    - Gulp, Webpack
+    - Electron
     - Bootstrap, Semantic UI
     - SASS, LESS
+  - Tools
+    - npm, yarn
+    - Composer
+    - Gulp
+    - Webpack
 
 - **Game Development**
   - Unity Engine (C#)
@@ -72,6 +74,11 @@
   - UI/UX Design
   - Graphic Design
   - Photoshop
+  
+## Projects
+- Supernaught — an indie game development group
+- Codigo — a note-taking app for programming, made with Electron
+- Reddit Twitter bots
 
 ## Lectures / Talks
 
