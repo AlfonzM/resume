@@ -10,8 +10,10 @@
 
 ## Employment
 
-- **Robot Application Developer, G-Angle Entertainment Cebu** (May 2015—Present)
-  - Designed and developed applications and content management web systems for Pepper, a humanoid robot.
+- **Robot Applications and Full-Stack Web Developer, G-Angle Entertainment Cebu** (May 2015—Present)
+  - Designed and developed applications and content management systems for Pepper, a humanoid robot, using Python, web technologies and several different APIs.
+  - Developed and maintained in-house web systems and web applications.
+  - System administration for a few Linux and EC2 servers.
 
 - **Web Developer / iOS Developer, Chromedia Far East Inc.** (Apr 2015—May 2015)
   - Web and iOS development for startup companies in an agile working environment.
@@ -30,7 +32,51 @@
 - **MSU-IIT Integrated Developmental School**
   - Secondary School, AY 2006—2010
 
-## Lectures Conducted
+## Skills
+
+- **Full Stack Web Development**
+  - Back-end
+    - LAMP stack (Linux, Apache, MySQL, PHP)
+    - PHP Frameworks
+      - Laravel, Eloquent ORM
+      - Slim
+    - Node stack
+      - Node.js
+      - Express
+      - Mongoose (MongoDB)
+    - Amazon Web Services EC2 and S3
+    - RESTful API
+    - 3rd Party API integrations
+  - Front-end
+    - HTML5, CSS3, Javascript (ES6), jQuery
+    - React.js, Vue.js
+    - Gulp, Webpack
+    - Bootstrap, Semantic UI
+    - SASS, LESS
+
+- **Game Development**
+  - Unity Engine (C#)
+  - LÖVE (Lua)
+  - HaxeFlixel (Haxe)
+  - Game Design / Level Design
+  
+- **Mobile Development**
+  - iOS (Swift)
+
+- **Other**
+  - Python
+  - Git
+  - UNIX, shell scripting
+
+- **Design**
+  - UI/UX Design
+  - Graphic Design
+  - Photoshop
+
+## Lectures / Talks
+
+- **[1st Cebu Game Developer's Meet Up](https://www.meetup.com/CebuGameDev/events/238164546/)**
+  - Philosophia Library Cafe, March 2017
 
 - **Game Dev Workshop: Level-Up! 2nd USC GameCon**
   - University of San Carlos, Dec 2016
@@ -46,44 +92,3 @@
 
 - **2nd CS Dept. Research Forum**
   - University of San Carlos, Sep 2014
-
-## Skills
-
-- **Full Stack Web Development**
-  - Back-end
-    - LAMP stack (Linux, Apache, MySQL, PHP)
-    - Node stack
-      - Express
-      - Mongoose (MongoDB)
-    - PHP Frameworks
-      - Laravel, Eloquent ORM
-      - Slim
-    - RESTful API
-    - 3rd Party API integrations
-  - Front-end
-    - HTML5, CSS3, ES6 Javascript
-    - JS frameworks
-      - React.js
-      - Vue.js
-    - Gulp
-    - Webpack
-    - CSS Frameworks
-      - Bootstrap
-      - Semantic UI
-    - SASS, LESS
-
-- **Game Development**
-  - Unity Engine (C#)
-  - LÖVE (Lua)
-  - HaxeFlixel (Haxe)
-  
-- **Other**
-  - iOS development, Swift
-  - Python
-  - Git
-  - UNIX computing
-
-- **Design**
-  - UI/UX Design
-  - Graphic Design
-  - Photoshop
