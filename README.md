@@ -48,6 +48,7 @@
     - HTML5, CSS3, Javascript (ES6), jQuery
     - React.js, Vue.js
     - Electron
+    - Jekyll
     - Bootstrap, Semantic UI
     - SASS, LESS
   - Tools
@@ -75,10 +76,11 @@
   - Graphic Design
   - Photoshop
   
-## Projects
+## Side Projects
 - Supernaught — an indie game development group
 - Codigo — a note-taking app for programming, made with Electron
 - Reddit Twitter bots
+- [ADFNTURES](http://fonxnix.com) — personal travel blog
 
 ## Lectures / Talks
 
