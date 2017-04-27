@@ -48,10 +48,11 @@
 	- SASS, LESS
 	- Tools:
 		- npm, yarn, Gulp, Webpack
-
+	
 - **Mobile Development**
   - iOS (Swift)
-  	- CocoaPods, Eureka, Alamofire
+  	- CocoaPods, Eureka, Alamofire, etc
+	- Firebase
 
 - **Design**
   - UI/UX Design
@@ -61,7 +62,13 @@
 - **Other**
   - Python
   - Git
-  - UNIX, shell scripting
+  - A little DevOps
+	- Linux / UNIX
+	- Love for the Terminal
+		- zsh
+		- Vim
+	- Apache
+	- AWS ecosystem
 
 - **Game Development**
   - Unity Engine (C#)
