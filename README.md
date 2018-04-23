@@ -11,7 +11,12 @@
 
 ## Employment
 
-- **Robot Applications and Full-Stack Web Developer, G-Angle Entertainment Cebu** (May 2016—Present)
+- **iOS Application and Full-Stack Web Developer, LIG Philippines Inc.** (June 2017—Present)
+  - Lead iOS developer for an iOS chat application
+  - Developed and maintained the back-end side for the chat application using Node.js, Express, MongoDB.
+  - Developed and maintained a tour-guide-matching web application using Ruby on Rails. Worked on back-end, front-end and system administration roles
+  
+- **Robot Applications and Full-Stack Web Developer, G-Angle Entertainment Cebu** (May 2016—June 2017)
   - Designed and developed applications and content management systems for Pepper—a humanoid robot—using Python, web technologies and public 3rd-party APIs
   - Designed and developed in-house web systems, web applications and back-end APIs using frameworks like Laravel, React.js, Vue.js
   - System administration for Linux and Amazon EC2 servers
@@ -37,11 +42,11 @@
 	- Node stack (Node.js, Express, MongoDB)
 	- RESTful API
 	- 3rd Party API integrations
-	- Amazon Web Services EC2 and S3
+	- Amazon Web Services
 
 - **Front-end Web Development**
 	- HTML5, CSS3, Javascript (ES6), jQuery
-	- React.js, Vue.js
+	- React, Vue
 	- Electron
 	- Jekyll
 	- Bootstrap, Semantic UI
@@ -77,7 +82,9 @@
   - Game Design / Level Design
   
 ## Side Projects
-- Supernaught — an indie game development group
+- [Ragna-Market.com](https://ragna-market.com) - online marketplace for Ragnarok Online Philippines, an MMORPG game
+- [PSE Screener](https://github.com/alfonzm/pse-screener) - a dashboard for quickly filtering and sorting Philippine stock market data using stocks data exported from [Investagrams](https://investagrams.com)
+- [Supernaught](http://supernaught.itch.io/) — an indie game development group
 - Codigo — a note-taking app for programming, made with Electron
 - HN Reader — A Hacker News reader client app for iOS using the Hacker News API
 - Twitter bots — novelty Twitter accounts that tweet random stuff like cute photos or random game-jam games
