@@ -1,5 +1,5 @@
 # Alfonz Montelibano
-**Full-Stack Web Developer / Indie Game Developer**
+**Full-Stack Web Developer / iOS Developer / Indie Game Developer**
 
 - E-mail: [m.alfonz@gmail.com](mailto:m.alfonz@gmail.com)
 - Phone:
@@ -11,43 +11,39 @@
 	- [Stack Overflow](http://stackoverflow.com/users/4007220/alphonsus)
 
 ## Employment
-- **Full-Stack Web Developer & iOS Developer, LIG Philippines Inc.** (Jun 2017—Present)
-  - Developed an iOS and web application for a tourist matching service
-  - Develoepd back-end for a chat application using Node.js, Express, MongoDB
-  - Developed websites and single page apps using Ruby on Rails and Vue.js
+- **Full-Stack Web & iOS Developer, LIG Philippines Inc.** (Jun 2017—Present)
+  - Full-stack web development for a chat application using JS, Node, MongoDB
+  - iOS & web development for a tourist matching app and a reservation service using Swift, Rails, LAMP stack
+  - Front-end development for web apps and services using Vue, Nuxt and React
 
-
-- **Robot Applications and Full-Stack Web Developer, G-Angle Entertainment Cebu** (May 2016—Jun 2017)
-  - Designed and developed applications and content management systems for Pepper—a humanoid robot—using Python, web technologies and public 3rd-party APIs
-  - Designed and developed in-house web systems, web applications and back-end APIs using frameworks like Laravel, React.js, Vue.js
+- **Full-Stack Web & Robot Applications Developer, G-Angle Entertainment Cebu** (May 2016—Jun 2017)
+  - Full-stack web development for web apps and back-end APIs using frameworks like Laravel, Vue, React
+  - Developed applications and content management systems for Pepper (a humanoid robot) using Python, web technologies and 3rd-party APIs
   - System administration for Linux and AWS
 
-- **Web Developer / iOS Developer, Chromedia Far East Inc.** (Apr 2015—May 2016)
-  - Developed and maintained web systems, web apps and CRM software for startup companies
-  - Designed the database and developed a social network iOS app for a business with back-end API integrations
+- **PHP & iOS Developer, Chromedia Far East Inc.** (Apr 2015—May 2016)
+  - Full-stack web development for web apps and CMS websites using PHP, Symfony, Drupal
+  - iOS development for a social network app using Swift
 
-- **Game Designer & Developer, AZ Technical Laboratory** (Nov 2014—Feb 2015)
-  - Designed and developed mobile games that feature fun gameplay, multiplayer modes, online leaderboards and social media integration.
+- **Game Developer & Designer, AZ Technical Laboratory** (Nov 2014—Feb 2015)
+  - Designed and developed mobile games with multiplayer modes, online leaderboards and social media integration
 
-- **Freelance Designer & Front-end Web Developer** (Mar 2014—Oct 2014)
-  - Designed and developed websites, landing pages and Wordpress templates for various clients and organizations.
-  - Also created designs for layouts, branding, and social media graphics
+- **Front-End Web Developer & Designer, Freelance** (Mar 2014—Oct 2014)
+  - Web design and development for landing pages and Wordpress templates
+  - Created designs for layouts, branding, and social media graphics
 
 ## Skills
 
 - **Back-end Web Development**
 	- LAMP stack (Linux, Apache, MySQL, PHP)
-	- Laravel, Eloquent, Slim, Wordpress
-	- Node stack (Node.js, Express, MongoDB)
+	- Laravel, Node, Express, MongoDB
 	- RESTful API, 3rd Party API integrations
 	- Amazon Web Services, Firebase
 
 - **Front-end Web Development**
-	- HTML5, CSS3, Javascript (ES6), jQuery
-	- Vue.js, Nuxt.js
+  - Vue, Nuxt, React
+  - HTML5, CSS3, Javascript (ES6)
   - SASS, LESS, Pug
-  - Bootstrap, Semantic UI, Bulma
-  - Tools: npm, yarn, Gulp, Webpack
 
 - **Mobile Development**
   - iOS (Swift)
@@ -59,21 +55,19 @@
   
 - **Other**
   - Python
+  - Git
   - UNIX computing
-    - Git
-    - zsh, vim, tmux
-    - shell scripting
+  - zsh, vim, tmux, bash
 
 - **Game Development**
   - LÖVE (Lua)
   - Unity (C#)
   - HaxeFlixel (Haxe)
-  - Game Design / Level Design
-  
+
 ## Side Projects
 [See the complete list here](http://alphonsus.github.io/projects)
 
-- Ragna-Market.com — an online marketplace for an MMORPG gmae
+- Ragna-Market.com — an online marketplace for an MMORPG game
 - Supernaught — an indie game development group
 - Codigo — a note-taking app for programming, made with Electron
 - HN Reader — A Hacker News reader client app for iOS using the Hacker News API
