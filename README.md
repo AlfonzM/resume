@@ -35,10 +35,10 @@
 ## Skills
 
 - **Back-end Web Development**
-	- LAMP stack (Linux, Apache, MySQL, PHP)
-	- Laravel, Node, Express, MongoDB
-	- RESTful API, 3rd Party API integrations
-	- Amazon Web Services, Firebase
+  - LAMP stack (Linux, Apache, MySQL, PHP)
+  - Laravel, Node, Express, MongoDB
+  - RESTful API, 3rd Party API integrations
+  - Amazon Web Services, Firebase
 
 - **Front-end Web Development**
   - Vue, Nuxt, React
@@ -47,22 +47,22 @@
 
 - **Mobile Development**
   - iOS (Swift)
-
-- **Design**
-  - UI/UX Design
-  - Graphic Design
-  - Sketch, Photoshop
   
 - **Other**
   - Python
   - Git
   - UNIX computing
   - zsh, vim, tmux, bash
-
+  
 - **Game Development**
   - LÖVE (Lua)
   - Unity (C#)
   - HaxeFlixel (Haxe)
+
+- **Design**
+  - UI/UX Design
+  - Graphic Design
+  - Sketch, Photoshop
 
 ## Side Projects
 [See the complete list here](http://alphonsus.github.io/projects)
