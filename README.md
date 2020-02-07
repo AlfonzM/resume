@@ -35,22 +35,26 @@
 ## Skills
 
 - **Back-end Web Development**
-  - LAMP stack (Linux, Apache, MySQL, PHP)
-  - Laravel, Node, Express, MongoDB
+  - Laravel, LAMP stack (Linux, Apache, MySQL, PHP)
+  - Node, Express, MongoDB
   - RESTful API, 3rd Party API integrations
   - Amazon Web Services, Firebase
 
 - **Front-end Web Development**
-  - Vue, Nuxt, React
-  - HTML5, CSS3, Javascript (ES6)
-  - SASS, LESS, Pug
+  - Vue, React
+  - Nuxt.js, Next.js, Vuex, Redux
+  - HTML5, CSS3, Javascript, ES6+
+  - SASS/SCSS, Pug
+  - npm, Webpack
+  - Tailwind, Bulma, Bootstrap
 
 - **Mobile Development**
   - iOS (Swift)
   
 - **Other**
-  - Python
   - Git
+  - Docker
+  - Python
   - UNIX computing
   - zsh, vim, tmux, bash
   
